@@ -6,5 +6,5 @@ is forbidden to trade any files contained in this repository !!!
 
 For further information, visit the website https://www.ngulik.id/2020/04/ws2812b-led-strip-arduino-bluetooth.html
 
-Best Regard,
+Best Regard
 Rizky Pratama Rusdiana
